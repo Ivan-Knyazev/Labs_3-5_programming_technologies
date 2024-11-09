@@ -1,0 +1,8 @@
+<Computer congifuration>
+CPU: Intel Core i3-12100
+RAM: 8GB DDR4
+Disk: 500 Gb
+<Computer congifuration>
+CPU: Intel Core i9-13900KS
+RAM: 32GB DDR5
+Disk: 2000 Gb

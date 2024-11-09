@@ -1,0 +1,6 @@
+<VolkswagenFactory>
+Sedan - brand: Volkswagen, speed: 162.700000
+Crossover - brand: Volkswagen, speed: 182.700000
+<ToyotaFactory>
+Sedan - brand: Toyota, speed: 210.300000
+Crossover - brand: Toyota, speed: 230.300000

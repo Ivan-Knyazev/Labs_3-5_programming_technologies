@@ -1,0 +1,10 @@
+[INFO] Creating single instance now
+[INFO] Single instance already created
+[INFO] Single instance already created in another gorutine
+[INFO] Single instance already created
+[INFO] Single instance already created in another gorutine
+[INFO] Single instance already created in another gorutine
+[INFO] Single instance already created in another gorutine
+[INFO] Single instance already created in another gorutine
+[INFO] Single instance already created
+[INFO] Single instance already created
