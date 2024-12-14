@@ -1,0 +1,3 @@
+User name: Vasya, age: 19
+User name: Tanya, age: 19
+User name: Sanya, age: 21

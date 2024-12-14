@@ -1,0 +1,3 @@
+Taxi route from A=(2; 3) to B=(30; 41)
+Bus route from A=(1; 7) to B=(20; 31)
+Bike route from A=(12; 9) to B=(19; 17)
